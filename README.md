@@ -34,11 +34,13 @@ The goal is to identify customers likely to discontinue their service.
 ## ⚙️ How to Run the Project Locally
 
 ### 1. Clone this repository
-
+```
 git clone https://github.com/Candy-Slayer/Churn-Pred.git
 cd Churn-Pred
-
+```
 ### 2. open app.py
+```
 navigate to app/main.py and type on terminal:
-streamlit run main.py 
+streamlit run main.py
+```
 
